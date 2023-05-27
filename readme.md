@@ -5,3 +5,16 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+
+### https://preline.co/docs/sidebar.html
+
+### https://preline.co/examples/layouts-application.html
+
+### https://preline.co/examples/html/scrollspy-sticky-sidebar.html#first
+
+### https://github.com/htmlstreamofficial/preline/tree/main/examples/html
+
+### https://tailwindui.com/documentation#vue-creating-components
+
+### 
