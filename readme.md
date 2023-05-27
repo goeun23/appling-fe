@@ -16,5 +16,3 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ### https://github.com/htmlstreamofficial/preline/tree/main/examples/html
 
 ### https://tailwindui.com/documentation#vue-creating-components
-
-### 
